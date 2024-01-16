@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @D-iomes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me *you cant
+- 👋 Hi, I’m Danny
+<!--- - 👀 I’m interested in ... --->
+- 🌱 I’m currently learning Coding such as HTML, Jquery, Css
+<!--- - 💞️ I’m looking to collaborate on ... --->
+<!--- - 📫 How to reach me ... --->
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+<!--- - ⚡ Fun fact: --->
 
 <!---
 D-iomes/D-iomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
